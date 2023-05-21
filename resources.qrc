@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/themes/cat">
+        <file>resources/themes/cat/light_cat_0.ico</file>
+        <file>resources/themes/cat/light_cat_1.ico</file>
+        <file>resources/themes/cat/light_cat_2.ico</file>
+        <file>resources/themes/cat/light_cat_3.ico</file>
+        <file>resources/themes/cat/light_cat_4.ico</file>
+    </qresource>
+</RCC>
