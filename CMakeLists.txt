@@ -10,8 +10,8 @@ set(CMAKE_AUTORCC ON)
 
 find_package(Qt5 COMPONENTS Core Gui Widgets REQUIRED)
 
-set (SRCS main.cpp)
-# set (HEADERS )
+set (SRCS main.cpp mainwindow.cpp)
+set (HEADERS mainwindow.h)
 # set (UIS )
 set (QRC resources.qrc)
 
